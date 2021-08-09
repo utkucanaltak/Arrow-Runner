@@ -1,0 +1,205 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity project/New Unity Project (UdoGames)/New Unity Project (UdoGames)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52118
+Successfully changed project path to: D:/Unity project/New Unity Project (UdoGames)/New Unity Project (UdoGames)
+D:/Unity project/New Unity Project (UdoGames)/New Unity Project (UdoGames)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.89 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity project/New Unity Project (UdoGames)/New Unity Project (UdoGames)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c92)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002435 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.09 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004493 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1641 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.2 MB.
+System memory in use after: 76.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2073.
+Total: 1.872700 ms (FindLiveObjects: 0.139200 ms CreateObjectMapping: 0.059900 ms MarkObjects: 1.614800 ms  DeleteObjects: 0.058000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/level4.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level4.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d122ce80eb95a7a9484660d847001a') in 0.020482 seconds
+  Import took 0.025537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 442.035901 seconds.
+  path: Assets/Scenes/level2.unity
+  artifactKey: Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level2.unity using Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1e5834d2486888b2d801412c5d25af') in 0.003868 seconds
+  Import took 0.012186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.648305 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ddc06218fe73266903403e9f2553e7') in 0.003361 seconds
+  Import took 0.010092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.761128 seconds.
+  path: Assets/Scenes/level2.unity
+  artifactKey: Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level2.unity using Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b8b0f21145ad9d6a52155d68c8dec1') in 0.002640 seconds
+  Import took 0.009399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.255710 seconds.
+  path: Assets/Scenes/level3.unity
+  artifactKey: Guid(8835cc69ba82b4a48ab4dfa6289d3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level3.unity using Guid(8835cc69ba82b4a48ab4dfa6289d3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a4bc3d62b6e3e201a61786797ded7a') in 0.002307 seconds
+  Import took 0.011027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.580575 seconds.
+  path: Assets/Scenes/level4.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level4.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0452a2b3cb476d030cbe95301298b0') in 0.002793 seconds
+  Import took 0.011392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.983781 seconds.
+  path: Assets/Scenes/level6.unity
+  artifactKey: Guid(e802aa4e1a90d074582c1d0ff62d9498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level6.unity using Guid(e802aa4e1a90d074582c1d0ff62d9498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7658b54d5474618a61c264cfbd90a5') in 0.002331 seconds
+  Import took 0.011005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.315001 seconds.
+  path: Assets/Scenes/level5.unity
+  artifactKey: Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level5.unity using Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf0e458683f3fe2431b465674db4de2') in 0.003112 seconds
+  Import took 0.011305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.594972 seconds.
+  path: Assets/Scenes/level5.unity
+  artifactKey: Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level5.unity using Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6f9a95ca3f2826c6740d4e73e5ba23') in 0.002538 seconds
+  Import took 0.008965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.041257 seconds.
+  path: Assets/Scenes/level6.unity
+  artifactKey: Guid(e802aa4e1a90d074582c1d0ff62d9498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level6.unity using Guid(e802aa4e1a90d074582c1d0ff62d9498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a692b1b345c4e43aeb7644adb14f299') in 0.002343 seconds
+  Import took 0.010396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.822697 seconds.
+  path: Assets/Scenes/level5.unity
+  artifactKey: Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level5.unity using Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2ed3ab16d959bcbf87531a2f5af256') in 0.003289 seconds
+  Import took 0.011129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001138 seconds.
+  path: Assets/Scenes/level5.unity
+  artifactKey: Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level5.unity using Guid(378db7aa753539445a31352187d643b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2ed3ab16d959bcbf87531a2f5af256') in 0.003476 seconds
+  Import took 0.011141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.020369 seconds.
+  path: Assets/Scenes/level4.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level4.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f99488b307971c36ff8e3caa87d869') in 0.003177 seconds
+  Import took 0.010525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.562269 seconds.
+  path: Assets/Scenes/level3.unity
+  artifactKey: Guid(8835cc69ba82b4a48ab4dfa6289d3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level3.unity using Guid(8835cc69ba82b4a48ab4dfa6289d3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b76079eee31b467520531500874aefc') in 0.002840 seconds
+  Import took 0.011628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.009506 seconds.
+  path: Assets/Scenes/level2.unity
+  artifactKey: Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level2.unity using Guid(5b277998ff84f0345a4adebe836c4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84030cbfaaebbe49e28b8b44f7a6fdc5') in 0.002672 seconds
+  Import took 0.010475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.985385 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8eb34e3ec0e73ee89eef32735330b2') in 0.002535 seconds
+  Import took 0.010824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001044 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(6f4496c7a1535ea4fb1ced9e1960ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8eb34e3ec0e73ee89eef32735330b2') in 0.002932 seconds
+  Import took 0.012393 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
